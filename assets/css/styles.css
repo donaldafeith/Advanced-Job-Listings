@@ -1,0 +1,19 @@
+/* Basic styles for the job listing plugin */
+.ajl-jobs {
+    margin: 20px 0;
+}
+
+.ajl-job {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.ajl-job h2 {
+    margin: 0 0 10px;
+}
+
+.ajl-job p {
+    margin: 5px 0;
+}
