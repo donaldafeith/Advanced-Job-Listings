@@ -30,4 +30,5 @@ We welcome contributions to improve this plugin. Feel free to submit issues and 
 
 ## License
 This plugin is licensed under the GPL v2 or later.
+
 <a href="https://www.buymeacoffee.com/donalda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
